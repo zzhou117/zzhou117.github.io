@@ -1,51 +1,51 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Simone",
+    "objectID": "research/project-1.html",
+    "href": "research/project-1.html",
+    "title": "My First Project",
     "section": "",
-    "text": "A longer paragraph about me and my interests and anything else I like to do."
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Simone",
-    "section": "Education",
-    "text": "Education\nWhere I studied"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Simone",
-    "section": "Experience",
-    "text": "Experience\nWhat I’ve done"
-  },
-  {
-    "objectID": "research/paper-1.html",
-    "href": "research/paper-1.html",
-    "title": "My First Paper",
-    "section": "",
-    "text": "A description of my paper.\nCould include a photo, or links, or anything at all!"
+    "text": "ECON2020 Final Project\nCould include a photo, or links, or anything at all!"
   },
   {
     "objectID": "research/index.html",
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "All of my research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Paper\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2024\n\n\nSimone , Matthew DeHaven\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Project\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2024\n\n\nSimone\n\n\n\n\n\n\nNo matching items"
+    "text": "All of my research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Paper\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2025\n\n\nZehui\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Project\n\n\n\n\n\n\n\n\n\n\n\nMar 28, 2025\n\n\nZehui\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "research/project-1.html",
-    "href": "research/project-1.html",
-    "title": "My First Project",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Zehui Zhou",
     "section": "",
-    "text": "A description of my project.\nCould include a photo, or links, or anything at all!"
+    "text": "Zehui Zhou is a first-year PhD student in the Department of Health Services, Policy & Practice at the Brown University School of Public Health. His research interests include value-based payment to better align provider reimbursement with improved quality and reduced cost, innovative health insurance design, payment policy, and healthcare reforms."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Zehui Zhou",
+    "section": "Education",
+    "text": "Education\nHe received an MPH degree in Health Policy from Yale School of Public Health and a BS degree in Economics from the George Washington University."
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Zehui Zhou",
+    "section": "Experience",
+    "text": "Experience\nPreviously, Zehui worked at the Johns Hopkins Bloomberg School of Public Health on several projects, including two randomized controlled trials, one implementation study, one longitudinal study, and three cross-sectional studies. He has extensive experience and training in conducting both quantitative and qualitative analyses using various software packages (e.g., Stata, SAS, MAXQDA). In addition, Zehui has co-authored several publications in peer-reviewed Journals such as Journal of Patient Safety, Journal for Healthcare Quality."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Simone",
+    "title": "Zehui",
     "section": "",
-    "text": "I am a Ph.D. student in upside-down studies at Sunspot University.\nMost of my current research is driven by trying to find an answer to the age-old question of “How cute am I?”\nPlease feel free to get in touch!"
+    "text": "I am a Ph.D. student in the Department of Health Services, Policy & Practice at the Brown University School of Public Health.\nMy research interests include value-based payment to better align provider reimbursement with improved quality and reduced cost, innovative health insurance design, payment policy, and healthcare reforms.\nPlease feel free to get in touch!"
+  },
+  {
+    "objectID": "research/paper-1.html",
+    "href": "research/paper-1.html",
+    "title": "My First Paper",
+    "section": "",
+    "text": "[Place Holder]\nCould include a photo, or links, or anything at all!"
   }
 ]

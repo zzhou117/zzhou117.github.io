@@ -1,11 +1,10 @@
 ---
 title: "My First Paper"
 author: 
-  - Simone
-  - Matthew DeHaven
-date: "January 01, 2024"
+  - Zehui
+date: "January 01, 2025"
 ---
 
-A description of my paper.
+[Place Holder]
 
 Could include a photo, or links, or anything at all!

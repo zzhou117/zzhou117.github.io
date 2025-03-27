@@ -1,5 +1,5 @@
 ---
-title: "Simone"
+title: "Zehui Zhou"
 about:
   template: jolla
   image: profile.jpg
@@ -9,17 +9,17 @@ about:
       href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/zzhou117
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com
     - icon: google
       text: Google Scholar
-      href: https://scholar.google.com
+      href: https://scholar.google.com/citations?user=XvZHjAEORmgC&hl=en&inst=7213243471243491304
 ---
 
-I am a Ph.D. student in upside-down studies at Sunspot University.
+I am a Ph.D. student in the Department of Health Services, Policy & Practice at the Brown University School of Public Health.
 
-Most of my current research is driven by trying to find an answer to the age-old question of “How cute am I?"
+My research interests include value-based payment to better align provider reimbursement with improved quality and reduced cost, innovative health insurance design, payment policy, and healthcare reforms.
 
 Please feel free to get in touch!

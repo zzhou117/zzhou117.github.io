@@ -1,5 +1,5 @@
 ---
-title: "Simone"
+title: "Zehui Zhou"
 about:
   template: trestles
   image: profile.jpg
@@ -9,21 +9,21 @@ about:
       href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/zzhou117
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com
     - icon: google
       text: Google Scholar
-      href: https://scholar.google.com
+      href: https://scholar.google.com/citations?user=XvZHjAEORmgC&hl=en&inst=7213243471243491304
 ---
 
-A longer paragraph about me and my interests and anything else I like to do.
+Zehui Zhou is a first-year PhD student in the Department of Health Services, Policy & Practice at the Brown University School of Public Health. His research interests include value-based payment to better align provider reimbursement with improved quality and reduced cost, innovative health insurance design, payment policy, and healthcare reforms.
 
 ## Education
 
-Where I studied
+He received an MPH degree in Health Policy from Yale School of Public Health and a BS degree in Economics from the George Washington University. 
 
 ## Experience
 
-What I've done
+Previously, Zehui worked at the Johns Hopkins Bloomberg School of Public Health on several projects, including two randomized controlled trials, one implementation study, one longitudinal study, and three cross-sectional studies. He has extensive experience and training in conducting both quantitative and qualitative analyses using various software packages (e.g., Stata, SAS, MAXQDA). In addition, Zehui has co-authored several publications in peer-reviewed Journals such as Journal of Patient Safety, Journal for Healthcare Quality.
